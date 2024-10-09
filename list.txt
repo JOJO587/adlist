@@ -1,4 +1,5 @@
 ||xiaohongshu.com^
+||xhscdn.com^
 ||weibo.com^
 ||douban.com^
 ||zhihu.com^
