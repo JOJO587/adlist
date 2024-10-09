@@ -2,7 +2,4 @@
 ||xhscdn.com^
 ||weibo.com^
 ||douban.com^
-||zhihu.com^
 ||tiktok.com^
-||renren.com^
-||meipai.com^
